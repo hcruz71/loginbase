@@ -1,6 +1,6 @@
 <template>
   <v-template>
-      INICIO
+      INICIO HACZ
   </v-template>
 </template>
 
